@@ -1,3 +1,62 @@
-body {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  position: fixed;
+  background-color: white;
+  top: 0;
+}
+.news {
+    color: white;
+}
+.nav-second {
+  display: flex;
+}
+.nav-first {
+    display: none;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+    height: 20px;
     
 }
+
+.nav-second {
+ 
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.logo-img {
+  background-color: black;
+  width: 100px;
+  padding: 16px 20px
+}
+.search {
+padding-right:40px;
+padding-top: 10px;
+}
+.search-icon {
+    padding: 10px;
+}
+
+.nav-first ul li {
+  display: inline;
+  padding-left: 10px;
+  font-size: 13px;
+  color: gray;
+}
+.navbar-main {
+    display: none;
+}
+
+.network {
+  background-color: yellow;
+  font-size: 12px;
+}
+
