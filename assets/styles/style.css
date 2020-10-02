@@ -86,7 +86,7 @@ li {
     background-size: cover;
     display: flex;
     flex-direction: column;
-    width: 22.36rem;
+    width: auto;
     height: 18rem;
     padding: 0;
     margin: 0.2rem;
@@ -113,6 +113,7 @@ li {
   .head-news {
     grid-gap: 1rem;
     margin: 5px;
+    width: auto;
   }
 
   .news-title {
@@ -131,7 +132,7 @@ li {
   .latest-news,
   .latest-funding {
     margin: 3rem 1rem 1rem 1rem;
-    width: 22rem;
+    width: auto;
   }
 
   .latest-news h2 a,
@@ -425,6 +426,24 @@ li {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+  }
+  .latest-deals {
+    margin: 1rem;
+    width: auto;
+  }
+  .deal {
+    grid-template-columns: repeat(auto-fill,minmax(22rem,1fr));
+    margin: 0.5rem 0 0.5rem 0;
+  }
+  .latest-deals img{
+    width: 75px;
+    height: 75px;
+  }
+  .title-price{
+    margin-left: 1rem;
+  }
+  .title-price span {
+    color: gray;
   }
 }
 
