@@ -34,6 +34,11 @@
   align-items: center;
 }
 
+footer ul li {
+  display: inline;
+  margin: 0 0.2em;
+}
+
 .social-icons li {
   font-size: 16px;
   color: white;
@@ -91,7 +96,7 @@ ul {
   padding: 15px;
 }
 
-.stay-home{
+.stay-home {
   background-color: #fd3;
   font-size: 12px;
   text-align: left;
@@ -218,7 +223,7 @@ a {
 
 .latest-art-img4 {
   display: block;
-  background-image:url(../images/l1.jpg);
+  background-image: url(../images/l1.jpg);
   background-size: cover;
   background-position: 50%;
   height: 100%;
@@ -389,11 +394,6 @@ footer {
   font-size: 13px;
 }
 
-footer ul li {
-  display: inline;
-  margin: 0 0.2em;
-}
-
 .social-icons {
   margin-bottom: 25px;
 }
@@ -428,8 +428,11 @@ footer ul li {
   height: 9px;
 }
 
-.wheel-chai-icon i {
+.cross{
+  text-decoration: line-through;
+}
 
+.wheel-chai-icon i {
   float: right;
   width: 70px;
   padding-right: 20px;

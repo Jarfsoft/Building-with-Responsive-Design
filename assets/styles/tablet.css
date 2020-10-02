@@ -4,7 +4,7 @@
   display: none;
 }
 
-.first-nav{
+.first-nav {
   display: flex;
   padding-left: 6.5em;
 }
@@ -38,12 +38,12 @@
   background-color: black;
   padding-top: 50px;
 }
-  
+
 .top-articles {
   display: flex;
   justify-content: space-between;
 }
-  
+
 #top-img {
   height: 468px;
   font-size: 1.8em;
@@ -77,8 +77,8 @@
 }
 
 .latest-img {
-    width: 100%;
-    height: 70%;
+  width: 100%;
+  height: 70%;
 }
 
 .comp-cont {
@@ -100,7 +100,6 @@
   max-width: 50%;
   padding: 15px 10px;
 }
-  
 
 @media (min-width: 1023px) {
   .funding-list ul li {
