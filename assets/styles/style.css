@@ -34,8 +34,6 @@
   align-items: center;
 }
 
-
-
 .social-icons li {
   font-size: 16px;
   color: white;
@@ -124,8 +122,6 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
-
 
 .logo-header {
   display: none;
@@ -434,17 +430,16 @@ footer ul li {
 
 .wheel-chai-icon i {
 
-    float: right;
-    width: 70px;
-    padding-right: 20px;
-    position: relative;
-   }
+  float: right;
+  width: 70px;
+  padding-right: 20px;
+  position: relative;
+}
 
-   .wheel {
-     background-color: violet;
-     width: 60px;
-
-   }
+.wheel {
+  background-color: violet;
+  width: 60px;
+}
 
 .hf-img {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/hf.jpg);

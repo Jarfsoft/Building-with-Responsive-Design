@@ -4,7 +4,6 @@
   display: none;
 }
 
-
 .first-nav{
   display: flex;
   padding-left: 6.5em;
@@ -17,22 +16,6 @@
 .logo {
   transform: translateY(-16px);
   bottom: 15px;
-}
-
-.logo-link {
-  background-color: black;
-  padding-top: 50px;
-}
-
-/* Top articles */
-.top-articles {
-  display: flex;
-  justify-content: space-between;
-}
-
-#top-img {
-  height: 468px;
-  font-size: 1.8em;
 }
 
 .flextop {
@@ -51,7 +34,21 @@
   padding-left: 10px;
 }
 
-/* Latest news */
+.logo-link {
+  background-color: black;
+  padding-top: 50px;
+}
+  
+.top-articles {
+  display: flex;
+  justify-content: space-between;
+}
+  
+#top-img {
+  height: 468px;
+  font-size: 1.8em;
+}
+
 .latest-articles {
   min-height: 150px;
 }
@@ -64,16 +61,10 @@
   column-gap: 20px;
 }
 
-.latest-img {
-  width: 100%;
-  height: 70%;
-}
-
 .latest-cont {
   padding: 0;
 }
 
-/* funding section */
 .companies-pad {
   display: flex;
   justify-content: space-evenly;
@@ -85,27 +76,31 @@
   width: 340px;
 }
 
+.latest-img {
+    width: 100%;
+    height: 70%;
+}
+
 .comp-cont {
   width: 100%;
   height: 100%;
   padding: 10px;
 }
 
-/* Categories */
 .categories {
   display: flex;
   flex-flow: row wrap;
+}
+
+.ftr-copyright br {
+  display: none;
 }
 
 .cat-articles {
   max-width: 50%;
   padding: 15px 10px;
 }
-
-
-.ftr-copyright br {
-  display: none;
-}
+  
 
 @media (min-width: 1023px) {
   .funding-list ul li {
