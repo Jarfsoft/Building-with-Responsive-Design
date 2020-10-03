@@ -432,18 +432,6 @@ footer {
   text-decoration: line-through;
 }
 
-.wheel-chai-icon i {
-  float: right;
-  width: 70px;
-  padding-right: 20px;
-  position: relative;
-}
-
-.wheel {
-  background-color: violet;
-  width: 60px;
-}
-
 .hf-img {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/hf.jpg);
 }

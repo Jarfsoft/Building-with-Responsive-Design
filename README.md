@@ -19,21 +19,26 @@ Download the code or copy the git repository to your computer.
 Run the index.html file.
 ### Run tests
 Linters errors
+
 ## Authors
 :silueta_de_busto: Juan Andrés Raudales Flores
 - GitHub: [@Jarfsoft](https://github.com/Jarfsoft)
 - Twitter: [@Jarfsoft](https://twitter.com/Jarfsoft)
 - LinkedIn: [Juan Raudales Flores](https://www.linkedin.com/in/juan-raudales-flores-7b0a3b113/)
-:silueta_de_busto: **Mir Rawshan Ali**
+
+:silueta_de_busto:  Mir Rawshan Ali
 - GitHub: [@sumon0002009](https://github.com/sumon0002001)
 - Twitter: [@sumon0002009](https://twitter.com/Sumon0002009)
 - LinkedIn: [Mir Rawshan Ali](https://www.linkedin.com/in/mir-rawshan-ali-27b6a5198/)
+
 ## :apretón-manos: Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/Jarfsoft/Design-Teardown/issues)
+
 ## Show your support
 Give a :estrella:️ if you like this project!
+
 ## Acknowledgments
 - Hat tip to anyone whose code was used
 - Inspiration
-- New York Times
+- The Next Web
