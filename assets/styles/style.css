@@ -5,6 +5,10 @@
   font-family: sans-serif;
 }
 
+:root {
+  --gradient: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
+}
+
 .white {
   color: white;
 }
@@ -380,37 +384,37 @@ footer {
 }
 
 .hf-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/hf.jpg);
+  background-image: var(--gradient), url(../images/hf.jpg);
 }
 
 .apps-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/n3.png);
+  background-image: var(--gradient), url(../images/n3.png);
 }
 
 .gear-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/l8.jpg);
+  background-image: var(--gradient), url(../images/l8.jpg);
 }
 
 .tech-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/t.png);
+  background-image: var(--gradient), url(../images/t.png);
 }
 
 .creative-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/c.jpg);
+  background-image: var(--gradient), url(../images/c.jpg);
 }
 
 .podium-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/p.png);
+  background-image: var(--gradient), url(../images/p.png);
 }
 
 .insights-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/hf.jpg);
+  background-image: var(--gradient), url(../images/hf.jpg);
 }
 
 .launch-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/la.png);
+  background-image: var(--gradient), url(../images/la.png);
 }
 
 .distract-img {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../images/d.png);
+  background-image: var(--gradient), url(../images/d.png);
 }
