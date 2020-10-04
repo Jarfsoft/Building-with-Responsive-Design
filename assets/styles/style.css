@@ -304,10 +304,12 @@ a {
 .info-art {
   display: flex;
   flex-direction: row;
+  width: 100%;
 }
 
 .category-cont {
   background-color: #fff4f2;
+  width: 100%;
 }
 
 .category-info {
