@@ -119,7 +119,7 @@ ul {
 }
 
 .cover {
-  height: 29vh;
+  height: 17rem;
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
@@ -317,8 +317,8 @@ a {
 
 .category-cont img {
   float: right;
-  width: 96px;
-  height: 96px;
+  width: 100px;
+  height: 100px;
 }
 
 .category-list ul {

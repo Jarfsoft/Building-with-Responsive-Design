@@ -73,6 +73,10 @@
   padding-top: 10px;
 }
 
+.category-info h3 {
+  font-size: 0.8rem;
+}
+
 .logo {
   display: none;
 }
