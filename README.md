@@ -6,7 +6,7 @@ The project was created based on an  site of thenextweb.com . The goal for this 
 - HTML5
 - CSS3
 ## Live Demo
-[Live Demo Link](https://rawcdn.githack.com/Jarfsoft/Building-with-Responsive-Design/39c2034a38f3e986bd38ccdb7ea5b0f9874386dc/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Jarfsoft/Building-with-Responsive-Design/a549a0de1438e34c3668fbc2d0df3bd009a54356/index.html)
 ## Getting Started
 **This project was created for the sole purpose of learning how to use CSS gradient, how to make responsive web page. The job is to create a responsive website that can changes its content size and position according to its screen size.**
 To get a local copy up and running follow these simple example steps.
